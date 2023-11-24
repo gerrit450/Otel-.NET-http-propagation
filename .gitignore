@@ -1,0 +1,7 @@
+Service-A/obj/
+Service-A/bin/
+
+Service-B/bin/
+Service-B/obj/
+
+.vs/
